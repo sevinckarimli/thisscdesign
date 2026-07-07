@@ -29,7 +29,6 @@
 	</style>
 </head>
 <body>
-
 	<!-- Naviqasiya -->
 	<nav class="navbar">
 		<div class="logo">Thisscdesign</div>
@@ -39,7 +38,6 @@
 			<li><a href="#contact">Əlaqə</a></li>
 		</ul>
 	</nav>
-
 	<!-- Giriş Hissəsi (Hero) -->
 	<header class="hero">
 		<div class="hero-content">
@@ -48,12 +46,10 @@
 			<a href="#projects" class="btn">İşlərimə Bax</a>
 		</div>
 	</header>
-
 	<!-- Layihələr Bölməsi -->
 	<section id="projects" class="projects-section">
 		<h2>Seçilmiş Layihələr</h2>
 		<div class="projects-grid">
-            
 			<!-- 1-ci Layihə -->
 			<div class="project-card">
 				<img src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?q=80&w=600&auto=format&fit=crop" alt="Yataq otağı Dizaynı" class="project-image">
@@ -61,7 +57,6 @@
 				<p>Bu yataq otağı dizaynı, məlumat və estetik əsasında hazırlanmışdır.</p>
 				<a href="#" class="btn-detail">Daha ətraflı</a>
 			</div>
-
 			<!-- 2-ci Layihə -->
 			<div class="project-card">
 				<img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=600&auto=format&fit=crop" alt="Qonaq Otağı Dizaynı" class="project-image">
@@ -69,7 +64,6 @@
 				<p>Məkanın genişliyini və işıqlandırılmasını ön plana çıxaran müasir dizayn konsepti.</p>
 				<a href="#" class="btn-detail">Daha ətraflı</a>
 			</div>
-
 			<!-- 3-cü Layihə -->
 			<div class="project-card">
 				<img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=600&auto=format&fit=crop" alt="Mətbəx Dizaynı" class="project-image">
@@ -77,10 +71,8 @@
 				<p>Erqonomik, funksional və vizual olaraq fərqlənən unikal mətbəx layihəsi.</p>
 				<a href="#" class="btn-detail">Daha ətraflı</a>
 			</div>
-
 		</div>
 	</section>
-
 	<!-- Əlaqə Bölməsi -->
 	<footer id="contact" class="footer">
 		<h2>Gəlin Birlikdə İşləyək!</h2>
@@ -92,6 +84,5 @@
 		</div>
 		<p class="copy">&copy; 2026 Bütün hüquqlar qorunur.</p>
 	</footer>
-
 </body>
 </html>
